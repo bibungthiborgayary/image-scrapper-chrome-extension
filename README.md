@@ -1,2 +1,2 @@
-# image-scrapper-chrome-extension
-image-scrapper-chrome-extension
+# image-scrap-chrome-extension
+image scrapper tool for chrome 
